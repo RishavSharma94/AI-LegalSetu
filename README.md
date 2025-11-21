@@ -1,4 +1,4 @@
-⚖️ LegalSetu - AI Legal Assistant
+                ⚖️ LegalSetu - AI Legal Assistant
 <div align="center">
   
 Intelligent AI-powered legal research and document analysis platform
