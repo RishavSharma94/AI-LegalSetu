@@ -179,6 +179,20 @@ Open a Pull Request
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+👨‍💻 Team & Contributions
+
+This project was developed as a Major Academic Project by a team of 4 members.
+
+ My Contribution (Rishav Sharma)
+- Designed and developed the complete frontend UI using React 18 and Tailwind CSS
+- Implemented responsive layouts and reusable components
+- Integrated frontend with backend APIs using Axios
+- Added animations using Framer Motion
+- Improved overall user experience and responsiveness
+
+Other team members contributed to backend development, AI integration, and database management.
+
+
 🙏 Acknowledgments
 Legal professionals who provided domain expertise
 
